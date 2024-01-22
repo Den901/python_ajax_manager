@@ -113,7 +113,7 @@ class AjaxManager:
 
             errors = {#DA COMPILARE VERIFICARE CON LE API DI CAME
                 1: "Invalid request format or request can't be executed because of some limitations",#400
-                2:"	Client is not authorized to perform the operation"#401
+                2: "Client is not authorized to perform the operation"#401
                 3: "Client doesn't have sufficient permissions to perform the operation",#403
                 4: "Requested resource is missing",#404
                 5: "Invalid incoming parameters",#422
