@@ -5,6 +5,11 @@
 
 _Python script to interact with Ajax System Hubs._
 
+*Please :star: this repo if you find it useful*
+
+*Contributors are welcome! 💪💪💪*
+
+
 # LIBRARY UNDER DEVELOPMENT IT'S NOT WORKING FOR NOW!!!
 
 *Please :star: this repo if you find it useful*
