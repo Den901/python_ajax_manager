@@ -111,7 +111,9 @@ class AjaxManager:
 
                 return resp_json
 
-            errors = {#DA COMPILARE VERIFICARE CON LE API DI CAME
+            errors = {#STILL TO VHECK WITH SWAGGER https://api.ajax.systems/swagger-ui/#/login/login
+
+                
                 1: "Invalid request format or request can't be executed because of some limitations",#400
                 2: "Client is not authorized to perform the operation"#401
                 3: "Client doesn't have sufficient permissions to perform the operation",#403
