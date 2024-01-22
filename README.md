@@ -5,7 +5,7 @@
 
 _Python script to interact with Ajax System Hubs._
 
-#LIBRARY UNDER DEVELOPMENT !!!
+# LIBRARY UNDER DEVELOPMENT IT'S NOT WORKING FOR NOW!!!
 
 *Please :star: this repo if you find it useful*
 
@@ -23,7 +23,7 @@ _Python script to interact with Ajax System Hubs._
 
 - Relays: turn on, turn off (only activations)
 
-</strike>
+
 
 ## Installation
 
@@ -37,6 +37,8 @@ python3 -m pip install -U pyajax
 pip install -e git+https://github.com/Den901/PYTHON_AJAX_MANAGER.git#egg=pyajax
 
 ```
+
+</strike>
 
 ## Authors & contributors
 
