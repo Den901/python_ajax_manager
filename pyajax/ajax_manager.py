@@ -1,4 +1,4 @@
-"""Python client for ETI/Domo."""
+"""Python client for Ajax System"""
 
 import json
 import logging
