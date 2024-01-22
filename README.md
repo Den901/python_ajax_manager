@@ -32,7 +32,7 @@ python3 -m pip install -U pyajax
 ## Usage example
 
 ```python
-pip install -e git+https://github.com/Den901.git#egg=pycame
+pip install -e git+https://github.com/Den901/PYTHON_AJAX_MANAGER.git#egg=pyajax
 
 ```
 
