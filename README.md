@@ -1,4 +1,4 @@
-# pyajax
+
 
 ![Esempio di Immagine](Ajax.png)
 
