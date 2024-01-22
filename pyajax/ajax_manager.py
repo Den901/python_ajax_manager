@@ -136,9 +136,9 @@ class AjaxManager:
 
 
 
-            #VEDERE SE "ERRORS" SI PUO' SOSTITUIRE CON "MESSAGE"
+            #INSTEAD "ERRORS" CAN WE USE "MESSAGE" ???
 
-#sample di errore
+#ERROR SAMPLE RESPONSE
             #{
 #  "message": "string",
 #  "messageId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
