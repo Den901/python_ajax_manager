@@ -7,9 +7,7 @@ _Python script to interact with Ajax System Hubs._
 
 
 
-[![PyPI version][pypi-shield]][pypi]
-[![PyPI Python version][pypi-pyversion]][pypi]
-[![Maintained][Maintained]](#)
+
 
 
 # Features
