@@ -49,6 +49,12 @@ class AjaxManager:
         self._user_id = _user_id
         self._refresh_token = refresh_token
         self._hub_id = hub_id
+        self._url_login = "/login" #USER FOR INIZIALIZE THE SESSION
+  #     self._url_login = "/REFRESH"
+        self._url_login = ("/", {self._user_id}, "/hubs")
+  #     self._url_login = "/login" COMPILE WITH ARM
+  #     self._url_login = "login" COMPILE WITH DISARM
+        
 
         self._features = []
 
@@ -62,7 +68,7 @@ class AjaxManager:
 
     def _request(self, command: dict, resp_command: str = None) -> dict:
         """Handle a request to an Ajax System device."""
-        url = f"https://api.ajax.systems/api/login"
+        url = f"https://api.ajax.systems/api{self._url_login}"
         headers = {
             "Accept": "application/json",
             "Content-Type": "application/json",
