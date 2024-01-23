@@ -117,7 +117,7 @@ class AjaxManager:
 
                 return resp_json
 
-            errors = {#STILL TO VHECK WITH SWAGGER https://api.ajax.systems/swagger-ui/#/login/login
+            errors = {                              #STILL TO VHECK WITH SWAGGER https://api.ajax.systems/swagger-ui/#/login/login
 
                 
                 1: "Invalid request format or request can't be executed because of some limitations",#400
