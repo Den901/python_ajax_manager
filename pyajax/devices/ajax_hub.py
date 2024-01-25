@@ -1,1 +1,2 @@
-
+#features to develop: ARM, DISARM, ARM_NIGHT, 
+#STATUS (ARMED, DISARMED, ARMED_NIGHT)
